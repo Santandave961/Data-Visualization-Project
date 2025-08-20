@@ -1,4 +1,4 @@
-Welcome to my data visualisation repository ! This collection showcases various interactive dawshboards, analytical reports and visual story telling projects using different tools and datasets
+Welcome to my data visualisation repository ! This collection showcases various interactive dashboards, analytical reports and visual story telling projects using different tools and datasets
 Overview:
 This repository contains a diverse range of data visualisation projects demonstrating skills in :
 Interactive dashboard development
